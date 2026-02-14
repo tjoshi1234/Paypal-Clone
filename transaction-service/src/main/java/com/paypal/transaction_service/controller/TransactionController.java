@@ -1,5 +1,6 @@
 package com.paypal.transaction_service.controller;
 
+import com.paypal.transaction_service.dto.TransferRequest;
 import com.paypal.transaction_service.entity.Transaction;
 import com.paypal.transaction_service.service.TransactionService;
 import jakarta.validation.Valid;
